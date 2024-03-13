@@ -46,3 +46,8 @@
 2024-03-13 21:24:18.003 [info] [127.0.0.1][9ede5229][ManagementConnection] New connection established.
 2024-03-13 21:24:18.677 [info] [127.0.0.1][6f594424][ExtensionHostConnection] New connection established.
 2024-03-13 21:24:18.742 [info] [127.0.0.1][6f594424][ExtensionHostConnection] <6417> Launched Extension Host Process.
+2024-03-13 21:27:35.436 [info] [127.0.0.1][9ede5229][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-03-13 21:27:35.503 [info] [127.0.0.1][6f594424][ExtensionHostConnection] <6417> Extension Host Process exited with code: 0, signal: null.
+2024-03-13 21:27:36.610 [info] [127.0.0.1][e6d8e2d5][ManagementConnection] New connection established.
+2024-03-13 21:27:36.658 [info] [127.0.0.1][81d01565][ExtensionHostConnection] New connection established.
+2024-03-13 21:27:36.668 [info] [127.0.0.1][81d01565][ExtensionHostConnection] <6569> Launched Extension Host Process.
