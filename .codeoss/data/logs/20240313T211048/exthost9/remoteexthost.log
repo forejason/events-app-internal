@@ -14,3 +14,6 @@
 2024-03-13 21:27:41.483 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
 2024-03-13 21:27:41.483 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
 2024-03-13 21:27:41.483 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-03-13 21:38:30.434 [info] Extension host terminating: received terminate message from renderer
+2024-03-13 21:38:30.435 [info] Lock '/home/user108/.codeoss/data/User/workspaceStorage/-6da637a/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-03-13 21:38:30.477 [info] Extension host with pid 6569 exiting with code 0
