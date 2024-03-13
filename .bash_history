@@ -23,3 +23,13 @@ it config --global init.defaultBranch main
 git config --global init.defaultBranch main
 git config --global --list
 git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/forejason/events-app-internal.git 
+git push -u origin main
+git push -u origin main
+git config --global user.email "your_github_email_address"
+git config --global user.name "your_github_user_name"
+git config --global init.defaultBranch main
+git config --global --list
+git init

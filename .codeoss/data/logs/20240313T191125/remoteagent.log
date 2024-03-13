@@ -63,3 +63,11 @@
 2024-03-13 20:00:12.179 [info] [127.0.0.1][4ee1e373][ManagementConnection] New connection established.
 2024-03-13 20:00:12.246 [info] [127.0.0.1][e8fbb387][ExtensionHostConnection] New connection established.
 2024-03-13 20:00:12.253 [info] [127.0.0.1][e8fbb387][ExtensionHostConnection] <7605> Launched Extension Host Process.
+2024-03-13 20:18:48.492 [info] [127.0.0.1][e8fbb387][ExtensionHostConnection] The client has reconnected.
+2024-03-13 20:18:48.613 [info] [127.0.0.1][4ee1e373][ManagementConnection] The client has reconnected.
+2024-03-13 20:18:54.207 [info] [127.0.0.1][e8fbb387][ExtensionHostConnection] The client has reconnected.
+2024-03-13 20:18:57.400 [info] [127.0.0.1][4ee1e373][ManagementConnection] The client has reconnected.
+2024-03-13 20:49:19.405 [info] [127.0.0.1][e8fbb387][ExtensionHostConnection] The client has reconnected.
+2024-03-13 20:49:19.510 [info] [127.0.0.1][4ee1e373][ManagementConnection] The client has reconnected.
+2024-03-13 20:49:25.099 [info] [127.0.0.1][e8fbb387][ExtensionHostConnection] The client has reconnected.
+2024-03-13 20:49:27.654 [info] [127.0.0.1][4ee1e373][ManagementConnection] The client has reconnected.
