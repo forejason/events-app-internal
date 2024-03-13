@@ -1,0 +1,18 @@
+2024-03-13 16:15:29.273 [info] Extension host with pid 4070 started
+2024-03-13 16:15:29.414 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-03-13 16:15:29.473 [info] Lock '/home/user108/.codeoss/data/User/workspaceStorage/3cd25ead/vscode.lock': Lock acquired.
+2024-03-13 16:15:29.532 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-03-13 16:15:29.534 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-03-13 16:15:30.145 [info] Eager extensions activated
+2024-03-13 16:15:30.145 [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig, startup: false, activationEvent: 'onStartupFinished'
+2024-03-13 16:15:30.146 [info] ExtensionService#_doActivateExtension google.cloud-shell, startup: false, activationEvent: 'onStartupFinished'
+2024-03-13 16:15:30.146 [info] ExtensionService#_doActivateExtension googlecloudtools.cloudcode, startup: false, activationEvent: 'onStartupFinished'
+2024-03-13 16:15:30.147 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-03-13 16:15:30.147 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-03-13 16:15:31.833 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-03-13 16:15:31.833 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-03-13 16:15:31.834 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-03-13 16:15:40.880 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:handlebars'
+2024-03-13 16:27:15.622 [info] Extension host terminating: received terminate message from renderer
+2024-03-13 16:27:15.623 [info] Lock '/home/user108/.codeoss/data/User/workspaceStorage/3cd25ead/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-03-13 16:27:15.657 [info] Extension host with pid 4070 exiting with code 0
