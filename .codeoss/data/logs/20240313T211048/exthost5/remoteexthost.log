@@ -14,3 +14,6 @@
 2024-03-13 21:15:37.928 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
 2024-03-13 21:15:40.374 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
 2024-03-13 21:15:40.375 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-03-13 21:20:16.894 [info] Extension host terminating: received terminate message from renderer
+2024-03-13 21:20:16.894 [info] Lock '/home/user108/.codeoss/data/User/workspaceStorage/-6da637a/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-03-13 21:20:16.928 [info] Extension host with pid 4225 exiting with code 0
